@@ -418,6 +418,7 @@ img {
 
 /*==================== SKILLS ====================*/
 .skills__container {
+  background-color: white;
   row-gap: 0;
 }
 
