@@ -418,7 +418,6 @@ img {
 
 /*==================== SKILLS ====================*/
 .skills__container {
-  background-color: white;
   row-gap: 0;
 }
 
@@ -492,11 +491,27 @@ img {
   width: 70%;
 }
 
-.skills__js {
+.skills__php {
   width: 60%;
 }
 
+.skills__js {
+  width: 70%;
+}
+
 .skills__react {
+  width: 50%;
+}
+
+.skills__mysql {
+  width: 50%;
+}
+
+.skills__node {
+  width: 30%;
+}
+
+.skills__laravel {
   width: 50%;
 }
 
